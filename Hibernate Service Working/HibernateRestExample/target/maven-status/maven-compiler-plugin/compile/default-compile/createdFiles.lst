@@ -1,0 +1,8 @@
+org\hib\rest\mphasis\MainProg.class
+org\hib\rest\mphasis\Dummy.class
+org\hib\rest\mphasis\SessionHelper.class
+org\hib\rest\mphasis\CustomerService.class
+org\hib\rest\mphasis\CustomerDao.class
+org\hib\rest\mphasis\MyResource.class
+org\hib\rest\mphasis\MainCustomerSearch.class
+org\hib\rest\mphasis\Customer.class
